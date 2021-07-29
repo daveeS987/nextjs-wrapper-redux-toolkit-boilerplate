@@ -1,4 +1,4 @@
-# My NextJs Boilerplate
+# NextJs Boilerplate
 
 ## Author: Davee Sok
 

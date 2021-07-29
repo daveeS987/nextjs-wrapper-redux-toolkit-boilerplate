@@ -1,7 +1,10 @@
 import React from 'react';
 import Head from 'next/head';
 
-function Layout() {
+import Header from '../Header/Header.js';
+import Footer from '../Footer/Footer.js';
+
+function Layout({ children }) {
   return (
     <>
       <Head>
@@ -11,6 +14,9 @@ function Layout() {
           content="Description of Website content goes here"
         />
       </Head>
+      <Header />
+      {children}
+      <Footer />
     </>
   );
 }

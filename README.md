@@ -32,7 +32,7 @@ Feel free to clone down this repo and play around with the code. In order to get
 
 ```
 git clone https://github.com/daveeS987/nextjs-wrapper-redux-toolkit-boilerplate.git
-cd nextjs-wrapper-redux-toolkit-boilerplate.git
+cd nextjs-wrapper-redux-toolkit-boilerplate
 npm install
 ```
 

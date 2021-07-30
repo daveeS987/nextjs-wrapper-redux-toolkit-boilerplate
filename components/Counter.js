@@ -16,9 +16,9 @@ export default function Counter() {
 
   return (
     <>
-      <h2>Counter Component</h2>
+      <h3>Counter Component</h3>
       <h3>
-        This is current count <span>{count}</span>
+        This is current count: <span>{count}</span>
       </h3>
 
       <button onClick={() => dispatch(increment())}>Increment</button>

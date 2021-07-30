@@ -16,6 +16,7 @@ function Layout({ children }) {
       </Head>
       <Header />
       {children}
+      <br />
       <Footer />
     </>
   );
